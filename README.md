@@ -35,4 +35,10 @@ Just enter the number (seconds) and the interval will start immediately.
 The graph can be exported in SVG, PNG, and CSV format.
 Also, on the legend of the graph, it is possible to mark some of the values and display only one or none.
 
+## Prototype
+
+The prototype is available at the following link but not all actions and animations have been completed.
+
+https://www.figma.com/file/QxzMouX2QdBH8qT5h2XsVf/Blood-Pressure?node-id=0%3A1
+
 
